@@ -2,12 +2,12 @@
 This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in 2009 but never really finished it. I decided to release a draft so perhaps if someone decides to tackle the construction, I can finish this tutorial by patching the missing details and answering the questions.
 
 Some nice features of this DDR-pad include:
-1. *Very durable with minimal amount of "movin parts"
+1. Very durable with minimal amount of moving parts
 	- The oldest pad I made has lasted more than 10 years, with minimal maintenance/cleaning
-2. *Relatively easy construction because of simple structure
+2. Relatively easy construction because of simple structure
 	- The pad mainly consists of wood, plexiglass, aluminium foil and glue
-3. *Comfortable play with socks and shoes
-	- Buttons are surprisingly sensitive and one can feel the panel edges when playing with socks (reduces player drift)
+3. Comfortable play with socks and shoes
+	- Buttons are surprisingly sensitive and one can slighly feel the panel edges when playing with socks (reduces player drift)
 
 ![2.1 Panel overview](/images/IMG_0147.JPG)
 
