@@ -10,8 +10,7 @@ This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in
 	- The pad mainly consists of wood, plexiglass, aluminium foil and glue
 4. One can wire up all 9 buttons so the pad will also support games like PumpItUp
 
-
-This tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schemes for building your own.
+This tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schematics for building your own.
 
 ![2.1 Panel overview](/images/IMG_0147.JPG)
 
@@ -25,12 +24,9 @@ if( TLDR && skill_level > enough){
 
 Building can be divided into smaller sections that can be done independently, so if you have some friends to help you out, you can reduce the building time with many hours. Of course, with the proper (industrial) tools, you can also reduce the time drastically. Normally it will take 6-8 hours to build one by yourself. With proper tools, one person can make one pad in something like 4-5 hours. If you happen to have experienced building team of three or more persons and the proper toolset, I think you can manage with 2 hours. The cost will be something from 50€ to 80€, which is not bad for a hard pad.
 
-
 ![2.1 Panel overview](/images/panel2.png)
 
-
 Read the whole tutorial before you go shopping. You will save some money by making your own choises on some materials. Use your imagination if you encounter any problems, that's what I have been doing. Your pad might even end up being better than these ones. :P
-
 
 ### 1\. Needed tools and items
 
@@ -47,10 +43,8 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 	- I used MDF for the base as normal plywood tends to curve over time. The moisture within the plywood won't get distributed evenly as the other side is covered. My previous plywood pads were rather unstable depending on the humidity.
 2. Screws
 	- To hold the panels in place. Buy these after you know the total depth of your pad.
-
 3. Washers
 	- To hold the panels up. Can also be used for getting the signal to the contact surface. I used 6x25x1,25mm ones.
-
 4. Cooking(aluminium) foil and thinned wood/universal glue
 	- To form the GND-plane. I cannot really think of a better material for this.
 5. Duct tape
@@ -68,8 +62,6 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 
 
 #### My Shopping List
-
-
 ||Amount|Item|Price(€)|
 |--- |--- |--- |--- |
 |1|1 pcs|780x780mm 10mm MDF|9.00|
@@ -86,7 +78,6 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 |12|9 pcs|A3 sized paper sheets|2.99|
 |13|~ 10 m|Aluminium tape|3.99|
 |||Total|~89.62|
-
 
 
 ### 2\. Panels
