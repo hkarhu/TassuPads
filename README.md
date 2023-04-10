@@ -4,13 +4,10 @@ This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in
 ##### Some nice features of this DDR-pad include:
 1. Very durable with minimal amount of moving parts
 	- The oldest pad I made has lasted more than 10 years, with minimal maintenance/cleaning
-
 2. Comfortable play with socks and shoes
 	- Buttons are surprisingly sensitive and one can slighly feel the panel edges when playing with socks (reduces player drift)
-	
 3. Easy construction/fixing because of simple structure
 	- The pad mainly consists of wood, plexiglass, aluminium foil and glue
-	
 4. One can wire up all 9 buttons so the pad will also support games like PumpItUp
 
 
