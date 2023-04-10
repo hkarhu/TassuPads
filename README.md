@@ -1,12 +1,6 @@
 # Tassu DDR Pads
 This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in 2009 but never really finished it. I decided to release a draft so perhaps if someone decides to tackle the construction, I can finish this tutorial by patching the missing details and answering the questions.
 
-So, here it is:
-
-People have been requesting me to write this tutorial on how to construct one of these DDR-pads I have designed. So this tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schemes for building your own.
-
-![2.1 Panel overview](/images/IMG_0147.JPG)
-
 Some nice features of this DDR-pad include:
 1. Very durable with minimal amount of moving parts
 	- The oldest pad I made has lasted more than 10 years, with minimal maintenance/cleaning
@@ -14,6 +8,11 @@ Some nice features of this DDR-pad include:
 	- The pad mainly consists of wood, plexiglass, aluminium foil and glue
 3. Comfortable play with socks and shoes
 	- Buttons are surprisingly sensitive and one can slighly feel the panel edges when playing with socks (reduces player drift)
+
+
+This tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schemes for building your own.
+
+![2.1 Panel overview](/images/IMG_0147.JPG)
 
 ```
 if( TLDR && skill_level > enough){
