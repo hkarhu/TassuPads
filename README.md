@@ -50,7 +50,7 @@ The panels are just for making a contact between the signal wire and the ground 
 The following picture (2.1) is probably most useful one if you just want to copy my technique. It basically explains the whole idea. The conductive surfaces are pretty close to each other, but only pressure will trigger clear enough signal to be detected by the controller. The washers can be even thinner for more sensitivity.  
   
 
-![Panel overview](https://github.com/irah-000/TassuPads/tree/main/images/panel2.png)
+![Panel overview](/images/panel2.png)
 #### 2.1 Layering explained.
 
   
