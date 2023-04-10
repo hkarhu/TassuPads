@@ -77,7 +77,7 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 |11|> 0.6 m2|Spraypaint|2.99|
 |12|9 pcs|A3 sized paper sheets|2.99|
 |13|~ 10 m|Aluminium tape|3.99|
-
+|||Total|~89.62|
 
 
 
