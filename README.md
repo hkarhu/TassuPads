@@ -113,7 +113,9 @@ The area needs to be divided into 9 sections. This can be done by dividing each 
 
 ![](/images/img_1487.jpg)
 
-After you know where the pads will be, place pieces of wheater strips to positions where you think the contact will be sufficient for the upper module. I used this kind of formation (x.x), just to make it as symmetric as possible.
+After you know where the pads will be, place pieces of wheater strips to positions where you think the contact will be sufficient for the upper module. I used this kind of formation, just to make it as symmetric as possible.
+
+[IMAGE]
 
 Before continuing, you should have the 9 top panels ready so you can measure the accurate places for the washers.
 
