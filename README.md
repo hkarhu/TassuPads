@@ -1,15 +1,16 @@
 # Tassu DDR Pads
-DDR pads from 2009
+This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in 2009 but never really finished it. I decided to release a draft so perhaps if someone decides to tackle the construction, I can finish this tutorial by patching the missing details and answering the questions.
 
+So, here it is:
 
 
 People have been requesting me to write this tutorial on how to construct one of these DDR-pads I have designed. So this tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schemes for building your own.
 
 ```
 if( TLDR && skill_level > enough){
-Look through the images and use your imagination.
+	Look at the images and use your imagination.
 } else {
-continue;
+	continue;
 }
 ```
 
@@ -32,7 +33,30 @@ Screwdriver
 Drill
 Sanding paper
 
-[TABLE1]
+1. MDF
+	- I used MDF for the base as normal plywood tends to curve over time. The moisture within the plywood won't get distributed evenly as the other side is covered. My previous plywood pads were rather unstable depending on the humidity.
+2. Screws
+	- To hold the panels in place. Buy these after you know the total depth of your pad.
+
+3. Washers
+	- To hold the panels up. Can also be used for getting the signal to the contact surface. I used 6x25x1,25mm ones.
+
+4. Cooking(aluminium) foil and thinned wood/universal glue
+	- To form the GND-plane. I cannot really think of a better material for this.
+5. Duct tape
+	- It will be used to keep the washers and the wires in place. It also isolates the GND from the contact surfaces. Never go without it.
+6. Wheaterstripping
+	To keep the signal wires touching the panel. If you change the design a bit, this might not be needed.
+7. CAT5 cable
+	- To get the signals out from each pad. You might allready have some of these, with broken clips. This is good opportunity to get yourself a new one and sacrifice the old for science!
+7.1. Ribbon cable
+	- For getting the signal wires and the ground wire to the controller unit neatly. You can get this from old IDE or floppy cables.
+8. 3mm Acrylic
+	- For the panels and contact surface. If you choose to make the contact surface from another material, you can actually reduce the cost quite a bit by just getting 9 of these instead of 18.
+9. Aluminium tape
+	- For the contact surface, if you decided to use the acrylic or other non-conductive material.
+10. A3 sized paper sheets and some spraypaint
+	- For your artwork.
 
 
 My Shopping List
@@ -61,7 +85,7 @@ You should go making the top panels first. Because if you fail something, you ca
 
 ### 3\. The Base
 
-![Overview]](/images/overview.png)
+![](/images/overview.png)
 #### 3.1 An overview.
 
 The base is made out of MDF. MDF is good because it doesn't bend much even if exposed to moisture. Plywood ones tended to bend up or down depending on the humidity and sometimes it keeps the bent form. MDF can bend a little during the gluing phase, but it will return to it's original shape once dry.
@@ -76,7 +100,7 @@ On the MDF there's a layer of cooking foil which will provide the GND for the co
 
 The area needs to be divided into 9 sections. This can be done by dividing each edge into 3 sections of 26cm and then drawing lines between the corresponding marks on the opposite edges. I used duct tape to make this "first grid" but I think you can get better results and thinner pad by using just a marker.
 
-\[IMAGE\]
+![](/images/img_1487.jpg)
 
 After you know where the pads will be, place pieces of wheater strips to positions where you think the contact will be sufficient for the upper module. I used this kind of formation (x.x), just to make it as symmetric as possible.
 
