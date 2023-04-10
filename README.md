@@ -1,6 +1,16 @@
 # Tassu DDR Pads
 This is an old tutorial for cheap-ish hard/durable DDR pads I started writing in 2009 but never really finished it. I decided to release a draft so perhaps if someone decides to tackle the construction, I can finish this tutorial by patching the missing details and answering the questions.
 
+Some nice features of this DDR-pad include:
+1. *Very durable with minimal amount of "movin parts"
+	- The oldest pad I made has lasted more than 10 years, with minimal maintenance/cleaning
+2. *Relatively easy construction because of simple structure
+	- The pad mainly consists of wood, plexiglass, aluminium foil and glue
+3. *Comfortable play with socks and shoes
+	- Buttons are surprisingly sensitive and one can feel the panel edges when playing with socks (reduces player drift)
+
+![2.1 Panel overview](/images/IMG_0147.JPG)
+
 So, here it is:
 
 
@@ -17,8 +27,7 @@ if( TLDR && skill_level > enough){
 Building can be divided into smaller sections that can be done independently, so if you have some friends to help you out, you can reduce the building time with many hours. Of course, with the proper (industrial) tools, you can also reduce the time drastically. Normally it will take 6-8 hours to build one by yourself. With proper tools, one person can make one pad in something like 4-5 hours. If you happen to have experienced building team of three or more persons and the proper toolset, I think you can manage with 2 hours. The cost will be something from 50€ to 80€, which is not bad for a hard pad.
 
 
-\[IMAGE\]
-The finished product will look something like this.
+![2.1 Panel overview](/images/panel2.png)
 
 
 Read the whole tutorial before you go shopping. You will save some money by making your own choises on some materials. Use your imagination if you encounter any problems, that's what I have been doing. Your pad might even end up being better than these ones. :P
