@@ -62,9 +62,8 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 #### My Shopping List
 
 
-|||||
+||Amount|Item|Price(€)|
 |--- |--- |--- |--- |
-|#|Amount|Item|Price(€)|
 |1|1 pcs|780x780mm 10mm MDF|9.00|
 |2|36 pcs|Screws|2.07|
 |3|36 pcs|Washers|1.89|
