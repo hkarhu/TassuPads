@@ -49,8 +49,8 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 	- To form the GND-plane. I cannot really think of a better material for this.
 5. Duct tape
 	- It will be used to keep the washers and the wires in place. It also isolates the GND from the contact surfaces. Never go without it.
-6. Wheaterstripping
-	To keep the signal wires touching the panel. If you change the design a bit, this might not be needed.
+6. Wheater stripping
+	- To keep the signal wires touching the panel. If you change the design a bit, this might not be needed.
 7. CAT5 cable
 	- To get the signals out from each pad. You might allready have some of these, with broken clips. This is good opportunity to get yourself a new one and sacrifice the old for science!
 8. Acrylic/polycarbonate sheet (~3mm)
@@ -123,7 +123,7 @@ Place the 9 top panels onto the pad and number them, so you can get them back in
 
 ![](/images/img_1506.jpg)
 
-After you have clear marks on the MDF, place the washers on the marks. Tiny drops of superglue will help if you have troubles keeping them in place. If you are planning to use the washers as signal carriers, you might need to cut pieces out from the aluminium around the washers. Then the screws won't make contact between the washer and the GND plane.
+After you have clear marks on the MDF, place the washers on the marks. Tiny drops of super glue will help if you have troubles keeping them in place. If you are planning to use the washers as signal carriers, you might need to cut pieces out from the aluminium around the washers. Then the screws won't make contact between the washer and the GND plane.
 
 Next you will need the stripped wires.
 
