@@ -26,12 +26,14 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 
 ### 1\. Needed tools and items
 
-Tools:
+#### Tools:
 \[to be inserted\]
 
-Screwdriver
-Drill
-Sanding paper
+1. Screwdriver
+2. Drill
+3. Sanding paper
+
+#### Materials:
 
 1. MDF
 	- I used MDF for the base as normal plywood tends to curve over time. The moisture within the plywood won't get distributed evenly as the other side is covered. My previous plywood pads were rather unstable depending on the humidity.
@@ -59,7 +61,7 @@ Sanding paper
 	- For your artwork.
 
 
-My Shopping List
+#### My Shopping List
 
 
 [TABLE2]
