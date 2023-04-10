@@ -24,8 +24,6 @@ if( TLDR && skill_level > enough){
 
 Building can be divided into smaller sections that can be done independently, so if you have some friends to help you out, you can reduce the building time with many hours. Of course, with the proper (industrial) tools, you can also reduce the time drastically. Normally it will take 6-8 hours to build one by yourself. With proper tools, one person can make one pad in something like 4-5 hours. If you happen to have experienced building team of three or more persons and the proper toolset, I think you can manage with 2 hours. The cost will be something from 50€ to 80€, which is not bad for a hard pad.
 
-![2.1 Panel overview](/images/panel2.png)
-
 Read the whole tutorial before you go shopping. You will save some money by making your own choises on some materials. Use your imagination if you encounter any problems, that's what I have been doing. Your pad might even end up being better than these ones. :P
 
 ### 1\. Needed tools and items
