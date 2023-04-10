@@ -51,9 +51,7 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 	To keep the signal wires touching the panel. If you change the design a bit, this might not be needed.
 7. CAT5 cable
 	- To get the signals out from each pad. You might allready have some of these, with broken clips. This is good opportunity to get yourself a new one and sacrifice the old for science!
-7.1. Ribbon cable
-	- For getting the signal wires and the ground wire to the controller unit neatly. You can get this from old IDE or floppy cables.
-8. 3mm Acrylic
+8. Acrylic/polycarbonate sheet (~3mm)
 	- For the panels and contact surface. If you choose to make the contact surface from another material, you can actually reduce the cost quite a bit by just getting 9 of these instead of 18.
 9. Aluminium tape
 	- For the contact surface, if you decided to use the acrylic or other non-conductive material.
@@ -64,7 +62,22 @@ Read the whole tutorial before you go shopping. You will save some money by maki
 #### My Shopping List
 
 
-[TABLE2]
+|||||
+|--- |--- |--- |--- |
+|#|Amount|Item|Price(€)|
+|1|1 pcs|780x780mm 10mm MDF|9.00|
+|2|36 pcs|Screws|2.07|
+|3|36 pcs|Washers|1.89|
+|4|~ 2.5 m|Cooking foil (aluminium)|1.25|
+|5|~ 10 m|Duct tape|3.95|
+|6|~ 2 m|Open Cell Weatherstripping|1.29|
+|7|~ 0.5 dl|Water based glue|1.20|
+|8|~ 1 m|CAT5 Cable|~3.00|
+|9|~ 30 cm|10 wire ribbon cable|~1.00|
+|10|18 pcs|260x260mm 3mm Acrylic|55.00|
+|11|> 0.6 m2|Spraypaint|2.99|
+|12|9 pcs|A3 sized paper sheets|2.99|
+|13|~ 10 m|Aluminium tape|3.99|
 
 
 
