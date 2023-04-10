@@ -1,10 +1,7 @@
-# TassuPads
+# Tassu DDR Pads
 DDR pads from 2009
 
-[[https://github.com/irah-000/TassuPads/images/overview.jpg]]
-
-
-  
+ 
 
 People have been requesting me to write this tutorial on how to construct one of these DDR-pads I have designed. So this tutorial will teach you how to construct a hard DDR-pad without the controller logic. Though there will be instructions how to connect the pad to a controller logic, but you need to get the logic part from elsewhere until I release the schemes for building your own.  
 
@@ -53,7 +50,7 @@ The panels are just for making a contact between the signal wire and the ground 
 The following picture (2.1) is probably most useful one if you just want to copy my technique. It basically explains the whole idea. The conductive surfaces are pretty close to each other, but only pressure will trigger clear enough signal to be detected by the controller. The washers can be even thinner for more sensitivity.  
   
 
-[![](panel2_tn.png)](panel2.png)  
+[[https://github.com/irah-000/TassuPads/images/panel2.png]]
 #### 2.1 Layering explained.
 
   
